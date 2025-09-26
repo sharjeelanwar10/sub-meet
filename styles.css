@@ -117,8 +117,6 @@ button {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        overflow-x: hidden;
-        
     }
 
     input {
@@ -151,7 +149,6 @@ button {
         width: 10px;
         height: 10px;
         margin: 0 0.1rem;
-
     }
 }
 
