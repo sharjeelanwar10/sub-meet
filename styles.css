@@ -125,6 +125,7 @@ button {
     
     .left-side {
         width: 100%;
+        padding: 4rem 0;
     }
 
     .social-links p {
@@ -133,11 +134,10 @@ button {
 
     .right-side {
         width: 100%;
-        justify-content: center;
     }
 
     .right-side > .sign-in > p {
-        font-size: 13px;
+        font-size: 12px;
     }
 
     .right-side img {
