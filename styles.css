@@ -134,6 +134,7 @@ button {
 
     .right-side {
         width: 100%;
+        overflow: hidden;
     }
 
     .right-side > .sign-in > p {
