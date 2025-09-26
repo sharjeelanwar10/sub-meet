@@ -104,8 +104,8 @@ button {
 }
 
 .right-side > img {
-    width: 450px;
-    height: 350px;
+    width: 350px;
+    height: 250px;
     position: absolute;
     bottom: 0;
     align-self: center;
@@ -133,6 +133,7 @@ button {
 
     .right-side {
         width: 100%;
+        justify-content: center;
     }
 
     .right-side > .sign-in > p {
